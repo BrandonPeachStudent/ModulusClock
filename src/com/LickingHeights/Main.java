@@ -19,7 +19,7 @@ public class Main {
 
 
 
-        
+        System.out.printf("The time is: %d:%02d",hour,minute);
 
 
 
