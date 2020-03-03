@@ -13,6 +13,12 @@ public class Main {
 
 
 
+        System.out.println("Enter minutes of time");
+        int minute = keyboard.nextInt();
+        minute = (minute % 60);
+
+
+
         
 
 
